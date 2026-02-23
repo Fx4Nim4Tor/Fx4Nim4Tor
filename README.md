@@ -1,22 +1,15 @@
-### DEV. JUNIOR 
-## Desenvolvedor Python focado em backend, APIs REST e organização de projetos.
+# José Matheus Simsen Lopes
 
-PROJETO TCC:
-https://tcc-ciencias-da-computacao.vercel.app/index.html
+## Desenvolvedor Python
 
-CONTATO:
-josematheustrabalho@gmail.com
-<!--
-**Fx4Nim4Tor/Fx4Nim4Tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python com foco em backend, construção de APIs REST e organização de aplicações em camadas. Experiência prática com integração via HTTP e versionamento com Git. Em constante evolução através de projetos reais e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Projeto em Destaque
+🔗 TCC: https://tcc-ciencias-da-computacao.vercel.app/index.html
+
+---
+
+###Contato
+📧 josematheustrabalho@gmail.com
