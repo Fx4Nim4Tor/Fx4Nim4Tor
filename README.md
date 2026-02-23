@@ -1,5 +1,9 @@
-### Construindo Uma Vida...
+### DEV. JUNIOR 
+## Desenvolvedor Python focado em backend, APIs REST e organização de projetos.
 
+#Projeto TCC: https://tcc-ciencias-da-computacao.vercel.app/index.html
+
+#contato:josematheustrabalho@gmail.com
 <!--
 **Fx4Nim4Tor/Fx4Nim4Tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
