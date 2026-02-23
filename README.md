@@ -6,10 +6,10 @@ Desenvolvedor Python com foco em backend, construção de APIs REST e organizaç
 
 ---
 
-##Projeto em Destaque
+Projeto em Destaque
 🔗 TCC: https://tcc-ciencias-da-computacao.vercel.app/index.html
 
 ---
 
-##Contato
+Contato
 📧 josematheustrabalho@gmail.com
