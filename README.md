@@ -1,12 +1,14 @@
 # José Matheus Simsen Lopes
 
-## Desenvolvedor Python
+### Desenvolvedor Python
 
-Desenvolvedor Python full stack com foco em backend.
+Desenvolvedor Python Full Stack com foco em Backend.
 
 ---
 
-Projeto em Destaque
-🔗 TCC: https://tcc-ciencias-da-computacao.vercel.app/index.html
-🔗 https://github.com/Fx4Nim4Tor/Gomes-Moveis-Site
+## 📌 Projetos em Destaque
+
+* **TCC:** [Acessar projeto](https://tcc-ciencias-da-computacao.vercel.app/index.html)
+* **Gomes Móveis:** [Ver repositório](https://github.com/Fx4Nim4Tor/Gomes-Moveis-Site)
+
 ---
